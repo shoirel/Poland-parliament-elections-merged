@@ -1,5 +1,5 @@
 # elections
-merged 2019 and 2023 Poland parliament elections data base 
+merged 2019 and 2023 Poland parliament elections database 
 // 
 scalona baza wyborcza z 2019 i 2023 roku, wybory parlamentarne. wybory 2023 i 2019 do sejmu i senatu
 
